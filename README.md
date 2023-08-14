@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gianfranco</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 - 🔭 I’m currently working on [La Gruta](https://github.com/fedezelarayan/la_gruta)
 
 - 🌱 I’m currently learning **Java, mongoDB and Computer Science**
